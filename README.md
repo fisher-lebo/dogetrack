@@ -1,6 +1,8 @@
 dogetrack
 =========
 
+**NOTICE: This repo has moved to [github.com/aaron-lebo/dogetrack](https://github.com/aaron-lebo/dogetrack).**
+
 ![dogetrack](screenshot.png?raw=true)
 
 dogetrack is a Bitcoin and Dogecoin price tracker that lives in your system tray. When you click on the icon, it gives the following prices:
